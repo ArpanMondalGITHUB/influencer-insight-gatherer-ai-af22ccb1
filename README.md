@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
+## an AI-driven influencer insights dashboard that gathers data for Instagram and YouTube creators. This project evokes social media analytics tools like HypeAuditor and Modash but customized for your specific needs.
 
 **URL**: https://lovable.dev/projects/e0d7e790-c01d-42ea-b8a2-85bbf3e235c8
 
