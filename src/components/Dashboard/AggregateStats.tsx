@@ -8,7 +8,7 @@ interface AggregateStatsProps {
 }
 
 const AggregateStats = ({ data }: AggregateStatsProps) => {
-  if (data.length === 0) return null;
+  if (!data || data.length === 0) return null;
 
   // Calculate aggregate stats
   const totalFollowers = data.reduce((sum, item) => sum + item.followerCount, 0);
